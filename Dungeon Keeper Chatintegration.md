@@ -52,7 +52,7 @@ There are some Commands that need a location, creaturename or Task/Job.
 - dwarf, dwarfs
 - knight, knights
 - avatar, avatars
-- tunnller, tunnllers
+- tunneller, tunnellers
 - witch, witches
 - giant, giants
 - fairy, fairys
