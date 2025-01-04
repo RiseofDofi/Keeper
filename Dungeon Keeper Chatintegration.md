@@ -1,21 +1,21 @@
 # Chat Integration Dungeon Keeper General
 
--You can use the Chat or Channel points to do some actions in an active Dungeon Keeper Game if the API is connected.
+You can use the Chat or Channel points to do some actions in an active Dungeon Keeper Game if the API is connected.
 
 
 # #powerhero or #phero
 
--Every user can use this every 10 seconds to cast a random spell for the heroes or enemie keepers.
--If the user used #powerevil or #pevil in those 10 seconds it will not work. (only every 10 seconds one free spell per user)
+- Every user can use this every 10 seconds to cast a random spell for the heroes or enemie keepers.
+- If the user used #powerevil or #pevil in those 10 seconds it will not work. (only every 10 seconds one free spell per user)
 
 # #powerevil or #pevil
 
-Every user can use this every 10 seconds to cast a random spell for the player.
-If the user used #powerevil or #pevil in those 10 seconds it will not work. (only every 10 seconds one free spell per user)
+- Every user can use this every 10 seconds to cast a random spell for the player.
+- If the user used #powerevil or #pevil in those 10 seconds it will not work. (only every 10 seconds one free spell per user)
 
 # #createimp
 
-Creates an Imp on the Players dungeon heart. It costs gold.
+- Creates an Imp on the Players dungeon heart. - It costs gold.
 
 # #slap
 
