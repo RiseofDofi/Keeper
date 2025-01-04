@@ -24,7 +24,7 @@
 
 # [Creatures]/[Tasks/Jobs]/[Locations]/[Rooms]
 
-There are some Commands that needs a location, creaturename or Task/Job.
+There are some Commands that need a location, creaturename or Task/Job.
 - Following choices are available.
 
 # [Creatures]
