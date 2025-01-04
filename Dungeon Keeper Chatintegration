@@ -1,9 +1,11 @@
-# Chatcommands Chat Integration
+# Chat Integration Dungeon Keeper General
 
-1. !dice --> it will roll a 6 sided dice
-2. !time --> it will show my date and time
-3. !help --> link to Github Readme. (I assume you are here, because of that) =D
-4. !slap [username] --> it will slap a user.
-5. !keeperfx --> it will send you the link to the keeperfx download
-6. !keeperclan --> it will send you a link to join the keeperclan discord
-7. if you have any useful commands you can think of, contact me! =)
+You can use the Chat or Channel points to do some actions in an active Dungeon Keeper Game if the API is connected.
+
+
+# Command: #powerhero or #phero
+
+Every user can use this every 10 seconds to cast a random spell for the heroes or enemie keepers.
+If the user used #powerevil or #pevil in those 10 seconds it will not work. (only every 10 seconds one free spell per user)
+
+#Command: #powerevil or #pevil
