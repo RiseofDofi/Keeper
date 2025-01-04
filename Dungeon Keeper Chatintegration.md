@@ -29,7 +29,7 @@ There are some Commands that need a location, creaturename or Task/Job.
 
 # [Creatures]
 
-- fly, flys
+- fly, flies
 - beetle, beetles, bug
 - demonspawn, demonspawns
 - warlock, warlocks
