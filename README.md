@@ -28,7 +28,7 @@ If you have any great ideas how to improve it just contact me. =)
 6. !lure 5 --> you can lure any number of times. In this case it would do the lure command 5 times
 7. !creatures --> it will show you, how many and which creatures you have
 8. !attack username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures)
-9. !torture creature (for example: !torture_imp) --> torture whatevery creature you have imprisoned, it costs 100 gold
+9. !torture creature (for example: !torture imp) --> torture whatevery creature you have imprisoned, it costs 100 gold
 10. !prisoners --> it will show you, how many and which creatures you have imprisoned
 11. !traps --> it will show you, how many traps and which traps you have (there is a maximum on traps, currently it is 5)
 12. more will come!!!
